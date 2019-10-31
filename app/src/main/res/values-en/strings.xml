@@ -1,5 +1,74 @@
 <resources>
-    <string name="app_name">Peking Opera Mask</string>
-    <string name="back">back</string>
-    <string name="skip_ad">skip</string>
+<string name="app_name">Peking Opera Mask</string>
+<string name="back">back</string>
+<string name="skip_ad">skip</string>
+<!--  下面是数据-->
+<string-array name="mask_name">
+    <item>ān diàn bǎo </item>
+    <item>báisè liǎnpǔ </item>
+    <item>chái guì </item>
+    <item>hēisè liǎnpǔ </item>
+    <item>hóngsè liǎnpǔ </item>
+    <item>huángsè liǎnpǔ </item>
+    <item>lán sè liǎnpǔ </item>
+    <item>lǜsè liǎnpǔ </item>
+    <item>shí qiān </item>
+    <item>zǐsè liǎnpǔ </item>
+    <item>lǐ tiānwáng </item>
+</string-array>
+<string-array name="photo">
+    <item>@drawable/andianbao</item>
+    <item>@drawable/baise</item>
+    <item>@drawable/chaigui</item>
+    <item>@drawable/heise</item>
+    <item>@drawable/hongse</item>
+    <item>@drawable/huangse</item>
+    <item>@drawable/lanse</item>
+    <item>@drawable/lvse</item>
+    <item>@drawable/shiqian</item>
+    <item>@drawable/zise</item>
+    <item>@drawable/litianwang</item>
+</string-array>
+<string-array name="details">
+        <item>An Dianbao, a character in the classical novel "Speaking to the Tang Dynasty", martial arts, and the singer of the Shuwen.
+Tang Jun killed the Dumuguan,
+Xue Rengui is sick,
+Zhou Qing played and killed the deputy of An Dianbao, the blue sky and the blue sky. An Dianbao personally played, the eight fire-headed army besieged An Dianbao, after forty rounds, the eight fire-headed soldiers stunned their eyes, sweating back, but actually not the opponent of An Dianbao.
+Xue Rengui heard the news, with illness, An Dianbao asked to name, Xue Rengui dizzy, ignored, and straight into the past. Alarmed the void
+The nine-day mysterious female maiden, seeing the nobles and sickness, and rumoring the purpose,
+Called the left head Tsing Yi children\'s sword, to help Xue Li win An Dian Bao…
+The mysterious woman protects the boy, and takes him to the tip of the throat. This Antang treasure is not prepared, it is too late to scream, "Ah!" The man has been worn on the tip of the scorpion.
+        </item>
+        <item> White: White has white and oil white. In Beijing opera, white faces are often used to express the opposite role of traitor. For example, the male face of Cao Cao in the drama of the Three Kingdoms shows his treacherous and suspicious. In addition, the old heroes, officers, monks, eunuchs and other characters of Hefa Tongyan can also draw white faces. </item>
+        <item>Chai Gui
+Chai Gui is a character in "Says of Yue Quan Chuan". He is a hereditary Liang Wang. He uses the golden knife and his skills. He is a good man and a good man.
+Chai Gui is
+The character in Yue Quan Chuan is hereditary
+Liang Wang, Zhou Shizong
+Chai Rongzhen is a descendant of the family. He makes good use of the golden knives, and his skills are extraordinary. After the Taihang Mountain was the thief
+Wang Shan tempted, intending to rebel, enter the Beijing to grab the champion, the prime minister
+Zhang Bangchang, the Ministry of Military Affairs, Wang Shu, and the right army governor
+Zhang Jun three examiners made a heavy bribe, hoping to get to know the world, collusion inside and outside, rebel against the Song Dynasty.
+In order to seek fame, Yue Fei made a brotherhood.
+Burdock,
+Wang Gui, Tang Huai, Zhang Xian, four people, together with the capital of Beijing Jingliang (now Kaifeng) should be tested. The climax of this martial arts test is the confrontation between Yue Fei and Chai Gui. The two first compared to the test, Zhang Bangchang ordered Yue Fei to be a "gun theory"; Xiaoliang Wang made a "knife theory." Yue Fei\'s wonderful pens are born, and immediately, Xiaoliang Wang is flustered. He first writes the "knife theory" as "the theory of force", and the left is right-handed and changed in a random way. Naturally, it is not as good as Yue Fei. Then, compared to archery, Zhang Bangchang was afraid that Yue Fei would win again. He would secretly move the target to 200 steps, but Yue Fei did not panic. He saw that his bow was like a full moon, and the arrow went like a meteor, with nine hairs and branches. The bull\'s eye passes through. All the audience were shocked and scared that Xiaoliang Wang did not dare to bow. In the end, only the immediate competition is left. On martial arts, Xiaoliang Wang is not an opponent of Yue Fei at all, but at this time Yue Fei is very guilty: the xiaoliang Wang is a nobleman, he is only a district Wusheng. On the court, the guns come to the knife, in case of a miss, how to afford it. Therefore, the two rides on the field met, Xiaoliang Wang left to kill the right cut, so good, but Yue Fei is only parry, not back. After a few rounds, Yue Fei suddenly jumped out of the array and rushed to the invigilator to ask for a "life and death document". No matter what wounded his life, he would not pay for it. Zhang Bangchang saw that Yue Fei had only the power of parry, and he did not fight back. He thought that he would not win the Xiaoliang Wang, and he promised it. The two set up the "life and death documents", heavy and hang on the horse, majestic, arrogant, you cut my thorns, do not give each other, a good fight! Yue Fei has no scruples in his heart, and he is more energetic and swaying. A pole of the gun dances like a wind-sweeping pear. The mount is a white-horse horse conflict. If the white dragon plays, it only kills Xiaoliangwang and hides. . Suddenly, Yue Fei stunned a shot, and the backhand stabbed the heart of Xiaoliang Wang. Not waiting for Xiaoliangwang to block it, people had already been picked up by Yue Fei, and they ended their lives. This time, the audience cheered loudly, but only a few traitors such as Zhang Bangchang were frightened. They were desperately ruined, and immediately the soldiers would arrest Yue Fei and beheaded. When Zong Ze saw all this, he was so angry that he retired his axe and decided to keep his life. There was no dispute between the two sides, but the examination room had been chaotic. The candidates saw the subject test so unreasonable, shouted in unison, shouted rebellious, and scared Zhang Bangchang also had no idea. At this moment, I saw the ox screaming and screaming, wielding the scorpion and smashing into the school ground. When I raised my hand, I slashed the giant scorpion of the Great Song Dynasty in the center of the field, and the audience suddenly became chaotic. Zhang Bangchang knows that under this circumstance, if Yue Fei is not released, his life can\'t be saved, and he is rushing to tie for Yue Feisong. Yue Fei turned and jumped on the white horse, and the four brothers cut the gate of the school yard and ran outside the city.
+</item>
+        <item>Black: Black is also used to indicate the skin color of the character. The black face of the public painting indicates that his skin is black. With the unselfish and fair image of Bao Zheng Iron Face, black is symbolized as a character representation. After that, the black face is generally used for straightforward and selfless, just-in-time and character who is straightforward and brave.
+</item>
+        <item> Red: Red is generally used to indicate straightness, loyalty, bloodiness, and more positive roles. In fact, the red face was originally only to show the color of the character, and many of the red and black characters are very loyal and upright. So wide and wide, they began to use the red table to be brave, and to redraw the red face for the loyal and brave. </item>
+        <item> Yellow: In the Peking Opera mask, the yellow character is brave or fierce, so the yellow face is generally used for brave and violent characters.
+</item>
+        <item> blue:In the Peking Opera mask, the meaning of blue and green is similar, and it is a black extension, indicating that the character is strong and bold, and sometimes it means the insidiousness and embarrassment of the character. </item>
+        <item> Green: In the Peking Opera mask, the green mask is generally used to indicate brave, savage, and violent characters, and has similar meaning to the black Facebook. In addition, some grasshoppers who are kings are also sketching green faces. </item>
+        <item> Shiqian is a character in The Water Margin, nickname
+On the drums, Gao Tangzhou people, born thieves, on the way with Yang Xiong, Shi Xiu to go to Liangshan, because the stolen chicken was caught by Zhujiazhuang, led Liangshan
+Three dozen Zhujiazhuang. He once went to Tokyo to steal the Yanjin Golden Circle, earned Xu Ning Shangliang Mountain, and made a great contribution to the battle of the Da Mingfu and Zengtou City in Liangshan. When Liangshan was gathered together, it was ranked 107th.
+"The thief star", served as the leader of the secret step army. After the death of the party, he died of illness in Hangzhou, chasing the Yifang Lang
+Character origin
+Shiqian is a high Tangzhou person, stealing for the industry, and even stealing graves tombs, good to fly to the wall, known as the drums, he once provoked a lawsuit in the state of Zhangzhou, was rescued by Yang Xiong, the imprisonment of the two courts in Zhangzhou.
+
+</item>
+        <item>Purple: Purple is the intermediate color of red and black, and its symbolic meaning is also between red and black. It generally means solemn and solemn, just and majestic, and has a sense of justice. Some characters describe purple faces in novels and dramas, so they are given purple faces, and some characters outline purple faces to show that his appearance is ugly. </item>
+        <item> Li Jing, an ancient Chinese mythical figure, Taoist immortal, comes from many famous literary works and folklore of Ming Dynasty classical mythology novels such as "Feng Shen Yan Yi", "Journey to the West" and "Southern Travel Notes". Mrs. Yin Yin, the golden scorpion, the wooden fork (the raft), the three princes, the father of Yingying; the righteous father of the Lady of the earth (the golden nose white mouse). He lived in Chentangguan Lifu, where he served as the governor of Chentang in Chenfanguan. He was one of the gatekeepers of the Shang Dynasty, and he was involved in the Shang Dynasty. He was originally a member of the West Kunlun. The disciple of Duozhen, another servant of the lampposts, is the old three generations of disciples. [1] After the monastic sanctification, promoted Xianban, living in the heavenly palace of Yunlou and the Bisha Palace (the king\'s residence). Because his left hand often holds the golden exquisite pagoda, it is also known as "Tota Li Tianwang." With the younger son around him, he was the escort god under the Jade Emperor\'s seat. When he was ordered to attack Sun Wukong, he was added as the "Golden Marshal." </item>
+</string-array>
 </resources>

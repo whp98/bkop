@@ -16,5 +16,5 @@
     </style>
     <style name="adTheme" parent="AppTheme">
     <item name="android:windowBackground">@drawable/ad</item>
-</style>
+    </style>
 </resources>
